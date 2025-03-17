@@ -1,113 +1,91 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+John+Stephen+Malarejes;Frontend+Developer+from+Bohol&center=true&size=30&color=3498db&duration=3000&pause=1000" alt="Typing Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+there!+I'm+John+Stephen;Frontend+Developer+from+Bohol;Building+beautiful+web+experiences" alt="Typing SVG" />
+  </a>
 </h1>
 
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=JohnStephenMalarejes&cc=1A1B27&tc=70A5FD&ic=BF91F3&bc=FFFFFF" alt="John Stephen's GitHub Stats" />
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnStephenMalarejes&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JohnStephenMalarejes&style=for-the-badge&color=3584E4" alt="Profile Views" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="300" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation" width="450" />
 </div>
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center">⚡ Technology Stack</h2>
 
 <div align="center">
-  <!-- Frontend -->
-  <details open>
-    <summary><b>Frontend</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </details>
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nextjs" alt="Frontend Skills" />
   
-  <!-- Backend -->
-  <details>
-    <summary><b>Backend</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </details>
+  <h3>Backend Development</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,php" alt="Backend Skills" />
   
-  <!-- Databases -->
-  <details>
-    <summary><b>Databases</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  </details>
+  <h3>Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws" alt="Database Skills" />
   
-  <!-- Data Science & ML -->
-  <details>
-    <summary><b>Data Science & ML</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Seaborn-%238DD6F9.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  </details>
+  <h3>AI & Machine Learning</h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Skills" />
   
-  <!-- Other Languages -->
-  <details>
-    <summary><b>Other Languages</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </details>
+  <h3>Other Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin" alt="Programming Languages" />
   
-  <!-- Tools -->
-  <details>
-    <summary><b>Tools</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
-  </details>
+  <h3>Design & Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,figma,ps,androidstudio,vscode" alt="Tools" />
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnStephenMalarejes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnStephenMalarejes&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnStephenMalarejes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnStephenMalarejes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStephenMalarejes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnStephenMalarejes&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnStephenMalarejes&theme=tokyonight" width="49%" alt="Profile Details" />
 </div>
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnStephenMalarejes&theme=discord&no-frame=true&column=7&row=1&margin-w=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnStephenMalarejes&theme=discord&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/John Stephen Malarejes" target="_blank">
+  <a href="https://linkedin.com/in/johnstephenmalarejes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/John Stephen Buslon Malarejes" target="_blank">
+  <a href="https://facebook.com/johnstephenmalarejes" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/John Stephen Malarejes" target="_blank">
+  <a href="https://instagram.com/johnstephenmalarejes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:johnstephen.malarejes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
+<h2 align="center">💼 Current Work</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Wave Footer" />
+  <a href="https://github.com/JohnStephenMalarejes/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnStephenMalarejes&repo=portfolio-website&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/JohnStephenMalarejes/machine-learning-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnStephenMalarejes&repo=machine-learning-projects&theme=tokyonight&hide_border=true&border_radius=10" alt="ML Projects" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%" alt="Wave Footer" />
 </div>
